@@ -16,13 +16,17 @@ Run and Execution:
  Clone the Repository
  git clone https://github.com/your-username/automatic-medicine-reminder.git
  cd automatic-medicine-reminder
+ 
 2.open Project
  Open in Android Studio or VS Code with Flutter plugin installed.
+ 
 3.Install Dependencies
  flutter pub get
+ 
 4.Firebase Setup
  Create a Firebase project.
  Add google-services.json to android/app/.
+ 
 5.Run the App
  flutter run
 
