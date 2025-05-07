@@ -15,7 +15,7 @@ Run and Execution:
 1.Steps to Run & Execute
  Clone the Repository
  git clone https://github.com/your-username/automatic-medicine-reminder.git
- cd automatic-medicine-reminder"\n"
+ cd automatic-medicine-reminder
 2.open Project
  Open in Android Studio or VS Code with Flutter plugin installed.
 3.Install Dependencies
