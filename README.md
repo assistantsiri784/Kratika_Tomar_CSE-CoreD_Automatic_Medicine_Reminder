@@ -13,23 +13,23 @@ Technologies Used: Flutter & Dart – Mobile app development Figma – UI/UX des
 
 Run and Execution: 
 
-1.Steps to Run & Execute
- Clone the Repository
- git clone https://github.com/your-username/automatic-medicine-reminder.git
- cd automatic-medicine-reminder
+1. Steps to Run & Execute
+   Clone the Repository
+   git clone https://github.com/your-username/automatic-medicine-reminder.git
+   cd automatic-medicine-reminder
  
-2.open Project
- Open in Android Studio or VS Code with Flutter plugin installed.
+2. open Project
+   Open in Android Studio or VS Code with Flutter plugin installed.
  
-3.Install Dependencies
- flutter pub get
+3. Install Dependencies
+   flutter pub get
  
-4.Firebase Setup
- Create a Firebase project.
- Add google-services.json to android/app/.
- 
-5.Run the App
- flutter run
+4. Firebase Setup
+   Create a Firebase project.
+   Add google-services.json to android/app/.
+   
+5. Run the App
+   flutter run
 
 Figma Link Working PDF (step by step): https://github.com/assistantsiri784/Kratika_Tomar_CSE-CoreD_Automatic_Medicine_Reminder/blob/main/Figma%20Screenshot.pdf
 
