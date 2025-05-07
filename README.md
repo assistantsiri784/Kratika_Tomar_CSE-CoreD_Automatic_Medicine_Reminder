@@ -12,6 +12,7 @@ Video link: https://github.com/assistantsiri784/Kratika_Tomar_CSE-CoreD_Automat
 Technologies Used: Flutter & Dart – Mobile app development Figma – UI/UX design
 
 Run and Execution: 
+
 1.Steps to Run & Execute
  Clone the Repository
  git clone https://github.com/your-username/automatic-medicine-reminder.git
